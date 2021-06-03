@@ -1,0 +1,3 @@
+/* permanente Leiste oben entfernen */
+.sticky { position: unset; !important }
+
