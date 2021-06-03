@@ -1,0 +1,20 @@
+body { color: #e7e8eb !important; background-color : #202020 !important }
+h1,h2,h3,h4,h5 { color: white !important }
+button { color: white !important }
+article { background : #383838 !important }
+
+/* hyperlinks sichtbar machen */
+a { color: #81c4f8 !important }
+a:visited { color: yellow !important }
+
+.bg-shade-lightest { background-color: #202020 !important }
+.bg-white { background-color: #303030 !important }
+.dw-chart { background-color: #303030 !important }
+.lg\:bg-shade-lightest { background-color: #707070 !important }
+.bg-leftToRight { background-image: unset !important }
+.talk-load-more-button { background : black !important }
+.bg-sec2-lightest { background-color : #383838 !important }
+.z-10 { background-color : #383838 !important }
+
+/* permanente Leiste oben entfernen */
+.sticky { position: unset; !important }
