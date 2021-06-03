@@ -9,4 +9,4 @@ SPON (spiegel.de) Dunkelmodus für Safari
 3. Profit!
 
 # Einstellungen
-Standardmässig wird auch die *Sticky Bar* am oberen Rand entfernt sowie bereits besuchte Artikel in Gelb dargestellt. Falls das unerwünscht ist so können die Dateien **sticky.css** bzw. **links.css** unbenannt werden z.B. in **sticky.foo**
+Standardmässig wird auch die *Sticky Bar* am oberen Rand entfernt sowie bereits besuchte Artikel in Gelb dargestellt. Falls das unerwünscht ist so können die Dateien `sticky.css` bzw. `links.css` unbenannt werden z.B. in `sticky.foo`
