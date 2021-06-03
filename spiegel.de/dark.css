@@ -3,10 +3,6 @@ h1,h2,h3,h4,h5 { color: white !important }
 button { color: white !important }
 article { background : #383838 !important }
 
-/* hyperlinks sichtbar machen */
-a { color: #81c4f8 !important }
-a:visited { color: yellow !important }
-
 .bg-shade-lightest { background-color: #202020 !important }
 .bg-white { background-color: #303030 !important }
 .dw-chart { background-color: #303030 !important }
@@ -15,6 +11,3 @@ a:visited { color: yellow !important }
 .talk-load-more-button { background : black !important }
 .bg-sec2-lightest { background-color : #383838 !important }
 .z-10 { background-color : #383838 !important }
-
-/* permanente Leiste oben entfernen */
-.sticky { position: unset; !important }
